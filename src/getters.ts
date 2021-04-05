@@ -2,7 +2,6 @@ import {
     Frame,
     LayoutBase,
     Page,
-    TabNavigationBase,
     TextBase
 } from "@nativescript/core";
 
