@@ -6,6 +6,7 @@
     "release": "standard-version"
   },
   "devDependencies": {
+    "@nativescript/core": "8.0.1",
     "commitizen": "4.2.3",
     "cz-conventional-changelog": "3.3.0",
     "standard-version": "9.2.0"
