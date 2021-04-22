@@ -17,7 +17,6 @@ const nsClasses: Array<Frame|LayoutBase|Page|TabNavigationBase|TextBase> = [
     Frame.prototype,
     LayoutBase.prototype,
     Page.prototype,
-    TabNavigationBase.prototype,
     TextBase.prototype
 
 ];
